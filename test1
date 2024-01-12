@@ -1,2 +1,3 @@
 let a=1;
 let b=a++;
+consolv . log (a);
